@@ -1,9 +1,0 @@
-{
-  "name"              : "約数計算機",
-  "short_name"        : "約数",
-  "description"       : "約数計算機",
-  "start_url"         : "約数.html",
-  "display"           : "standalone",
-  "background_color"  : "#fff",
-  "theme_color"       : "#fff"
-}
