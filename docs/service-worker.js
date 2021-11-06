@@ -3,6 +3,10 @@ var CACHE_NAME  = "約数-PWA";
 
 //キャッシュするファイル名
 var urlsToCache = [
+	'apple-touch-icon.png',	
+	'favicon.ico',
+	'icon192.png',
+	'icon256.png',
 	'index.html',
 	'manifest.json',
 	'service-worker.js',
